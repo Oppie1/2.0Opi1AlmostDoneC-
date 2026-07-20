@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(44,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(44,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(44,7): error C2059: syntax error: '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(45,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(45,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(45,2): error C2086: 'int cout': redefinition
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(44,2):
+      see declaration of 'cout'
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(45,7): error C2059: syntax error: '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(48,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(48,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(48,2): error C2086: 'int cout': redefinition
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(44,2):
+      see declaration of 'cout'
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(48,7): error C2059: syntax error: '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(56,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(56,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(56,2): error C2086: 'int cout': redefinition
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(44,2):
+      see declaration of 'cout'
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(56,7): error C2059: syntax error: '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(57,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(57,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(57,2): error C2086: 'int cout': redefinition
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(44,2):
+      see declaration of 'cout'
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(57,7): error C2059: syntax error: '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(58,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(58,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(58,2): error C2086: 'int cout': redefinition
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(44,2):
+      see declaration of 'cout'
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\2.0Opi1AlmostDoneC++\2.38Opi1PsByRfPintrsAlmsDn\2.38Opi1PsByRfPintrsAlmsDn\main.cpp(58,7): error C2059: syntax error: '<<'
